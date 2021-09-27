@@ -1,0 +1,9 @@
+Create a new Spring Boot application.
+
+Create a new @Bean method in AppConfig that uses LocalTime.now() to return the current time​.
+
+Print this bean out to the console by accessing it in three different ways:
+
+by name
+by type
+by name and type
